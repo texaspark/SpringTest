@@ -6,11 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc1085ae-d251-4e53-aa9f-b72b48c8a168" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manifest-production.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manifest.yml" />
-    </list>
+    <list default="true" id="dc1085ae-d251-4e53-aa9f-b72b48c8a168" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -402,12 +398,12 @@
       <option name="presentableId" value="Default" />
       <updated>1505017137668</updated>
       <workItem from="1505017138903" duration="2084000" />
-      <workItem from="1505036706013" duration="824000" />
+      <workItem from="1505036706013" duration="943000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2908000" />
+    <option name="totallyTimeSpent" value="3027000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="0" />
